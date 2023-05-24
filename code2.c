@@ -2,7 +2,7 @@
 int main()
 {
     printf("Hello, World! \n");
-    printf("this is Anurag singh");
-    printf("this is message to check the commit");
+    printf("this is Anurag singh \n");
+    printf("this is message to check the commit \n");
     return 0;
 }
